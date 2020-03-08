@@ -1,6 +1,8 @@
 # crypTO
 Easy file encryption and decryption python script.
 
+![](images/diagram.PNG)
+
 Summary: This Script (crypTo.py) is used for simple file encryption and de-cryption.
 
 Required : Python 2 / 3 (Base version) No extra packages. 
